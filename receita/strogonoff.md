@@ -1,9 +1,9 @@
-#Strogonoff de Frango :chicken:
+# Strogonoff de Frango :chicken:
 
 **Negrito** _italico_ 
 
 
-### INGREDIENTES 
+### INGREDIENTES
  - 3 peitos de frango cortados em cubos
  - 1 dente de alho picado
  - sal e pimenta a gosto
